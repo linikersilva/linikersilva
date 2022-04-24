@@ -12,6 +12,7 @@
   <img align="center" alt="Liniker-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Liniker-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Liniker-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Spring-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/933410540401872939/967604940778389514/download.png">
 </div>
   
 ##
