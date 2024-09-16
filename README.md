@@ -23,4 +23,4 @@
   <a href = "mailto:linikergabrieldasilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UC5mZQamMKcaK0ZzP2Krq0Pw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   
-![snake gif](https://github.com/juninho15830/juninho15830/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/linikersilva/linikersilva/blob/output/github-contribution-grid-snake.gif)
