@@ -1,4 +1,6 @@
-## Olá! Meu nome é Liniker Silva
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ol%C3%A1!+%F0%9F%91%8B;+Sou+Liniker+Silva!;"/>
+</h1>
 <div align="center">
   <a href="https://github.com/LinikerSilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LinikerSilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
